@@ -1,6 +1,6 @@
-module nco(CLOCK_50, KEY, SW, VGA_R);
+module nco(MAX10_CLK1_50, KEY, SW, VGA_R);
 
-input           CLOCK_50;
+input           MAX10_CLK1_50;
 input   [1:0]   KEY;
 input   [9:0]   SW;
 output  [3:0]   VGA_R;
@@ -10,7 +10,7 @@ reg     [31:0]  phase;
 reg     [3:0]   dac_data;
 reg     [31:0]  freq_step;
 
-wire    sys_clk     = CLOCK_50;
+wire    sys_clk     = MAX10_CLK1_50;
 wire    sys_rst_n   = KEY[1];
 
 assign  VGA_R = dac_data;   

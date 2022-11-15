@@ -1,0 +1,15 @@
+D:/Short/Schememe/Laba2_3/testbench/nco.v {1 {vlog -work work -stats=none D:/Short/Schememe/Laba2_3/testbench/nco.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nco
+
+Top level modules:
+	nco
+
+} {} {}} D:/Short/Schememe/Laba2_3/testbench/nco_tb.v {1 {vlog -work work -stats=none D:/Short/Schememe/Laba2_3/testbench/nco_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}

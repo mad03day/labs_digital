@@ -1,0 +1,113 @@
+# Compile of nco.v was successful.
+# Compile of nco_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+do D:/Short/Schememe/Laba2_3/testbench/sim.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:17:11 on Nov 15,2022
+# vlog -reportprogress 300 nco.v nco_tb.v 
+# -- Compiling module nco
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 23:17:11 on Nov 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.testbench 
+# Start time: 23:17:11 on Nov 15,2022
+# Loading work.testbench
+# Loading work.nco
+# ** Note: $finish    : nco_tb.v(33)
+#    Time: 150000020 ns  Iteration: 1  Instance: /testbench
+# 1
+# Break in Module testbench at nco_tb.v line 33
+# 0 ps
+# 157500021 ns
+# Compile of nco.v was successful.
+# Compile of nco_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+quit -sim
+# End time: 23:19:58 on Nov 15,2022, Elapsed time: 0:02:47
+# Errors: 0, Warnings: 7
+# Compile of nco.v was successful.
+# Compile of nco_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+do D:/Short/Schememe/Laba2_3/testbench/sim.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:20:07 on Nov 15,2022
+# vlog -reportprogress 300 nco.v nco_tb.v 
+# -- Compiling module nco
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 23:20:07 on Nov 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.testbench 
+# Start time: 23:20:08 on Nov 15,2022
+# Loading work.testbench
+# Loading work.nco
+# ** Note: $finish    : nco_tb.v(33)
+#    Time: 100000020 ns  Iteration: 1  Instance: /testbench
+# 1
+# Break in Module testbench at nco_tb.v line 33
+# 0 ps
+# 105000021 ns
+quit -sim
+# End time: 23:21:09 on Nov 15,2022, Elapsed time: 0:01:01
+# Errors: 0, Warnings: 2
+# Break key hit
+# Compile of nco.v was successful.
+# Compile of nco_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+do D:/Short/Schememe/Laba2_3/testbench/sim.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:22:20 on Nov 15,2022
+# vlog -reportprogress 300 nco.v nco_tb.v 
+# -- Compiling module nco
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 23:22:21 on Nov 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim work.testbench 
+# Start time: 23:22:21 on Nov 15,2022
+# Loading work.testbench
+# Loading work.nco
+# ** Note: $finish    : nco_tb.v(33)
+#    Time: 160000020 ns  Iteration: 1  Instance: /testbench
+# 1
+# Break in Module testbench at nco_tb.v line 33
+# 0 ps
+# 168000021 ns
+# Break key hit
+quit -sim
+# End time: 23:24:57 on Nov 15,2022, Elapsed time: 0:02:36
+# Errors: 0, Warnings: 2
+# Break key hit
+# Compile of nco.v was successful.
+# Compile of nco_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+do D:/Short/Schememe/Laba2_3/testbench/sim.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:25:09 on Nov 15,2022
+# vlog -reportprogress 300 nco.v nco_tb.v 
+# -- Compiling module nco
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 23:25:09 on Nov 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.testbench 
+# Start time: 23:25:09 on Nov 15,2022
+# Loading work.testbench
+# Loading work.nco
+# ** Note: $finish    : nco_tb.v(33)
+#    Time: 160000020 ns  Iteration: 1  Instance: /testbench
+# 1
+# Break in Module testbench at nco_tb.v line 33
+# 0 ps
+# 168000021 ns
+# End time: 01:10:51 on Nov 16,2022, Elapsed time: 1:45:42
+# Errors: 0, Warnings: 2
