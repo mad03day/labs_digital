@@ -1,0 +1,3 @@
+module sinus_gen(CLOCK_50);
+
+endmodule

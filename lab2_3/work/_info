@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Short/Schememe/Laba2_2/testbench
+vsinus_gen
+Z1 !s110 1668545240
+!i10b 1
+!s100 >aBZ3nUHG?M1E?9IL5bae3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IElh@HEU8Wii7Kd7gF2X140
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1668544724
+8sinus_gen.v
+Fsinus_gen.v
+!i122 0
+L0 1 29
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1668545240.000000
+!s107 sinus_gen_tb.v|sinus_gen.v|
+Z6 !s90 -reportprogress|300|sinus_gen.v|sinus_gen_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtestbench
+R1
+!i10b 1
+!s100 cb3Bg0KGTCOZ1_1HYc@ZE2
+R2
+IdJz`EOK092kMFaE_YBbYc0
+R3
+R0
+w1668545231
+8sinus_gen_tb.v
+Fsinus_gen_tb.v
+!i122 0
+L0 3 28
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 sinus_gen_tb.v|sinus_gen.v|
+R6
+!i113 1
+R7
