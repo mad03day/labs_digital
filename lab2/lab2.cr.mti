@@ -1,0 +1,15 @@
+D:/Short/Schememe/Laba2/testbench/sync_counter.v {1 {vlog -work work -stats=none D:/Short/Schememe/Laba2/testbench/sync_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sync_counter
+
+Top level modules:
+	sync_counter
+
+} {} {}} D:/Short/Schememe/Laba2/testbench/sync_counter_tb.v {1 {vlog -work work -stats=none D:/Short/Schememe/Laba2/testbench/sync_counter_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}

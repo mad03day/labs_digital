@@ -1,0 +1,21 @@
+do D:/Short/Schememe/Laba2/testbench/sim.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 22:19:18 on Nov 15,2022
+# vlog -reportprogress 300 sync_counter.v sync_counter_tb.v 
+# -- Compiling module sync_counter
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 22:19:18 on Nov 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.testbench 
+# Start time: 22:19:19 on Nov 15,2022
+# Loading work.testbench
+# Loading work.sync_counter
+# ** Note: $finish    : sync_counter_tb.v(27)
+#    Time: 40020 ns  Iteration: 1  Instance: /testbench
+# 1
+# Break in Module testbench at sync_counter_tb.v line 27
+# End time: 01:12:06 on Nov 16,2022, Elapsed time: 2:52:47
+# Errors: 0, Warnings: 1

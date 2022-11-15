@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Short/Schememe/Laba2/testbench
+vsync_counter
+Z1 !s110 1668543558
+!i10b 1
+!s100 Fb:GeK=0EANiX6^GVhM930
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7EfKe8ZTYf6QlDzfWCD:F3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1668537861
+8sync_counter.v
+Fsync_counter.v
+!i122 0
+L0 1 23
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1668543558.000000
+!s107 sync_counter_tb.v|sync_counter.v|
+Z6 !s90 -reportprogress|300|sync_counter.v|sync_counter_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtestbench
+R1
+!i10b 1
+!s100 6z:d7PM>=2KN<foZ4SZcV3
+R2
+IjSU[gP6XEYCXbeGKKBH5V0
+R3
+R0
+w1668539452
+8sync_counter_tb.v
+Fsync_counter_tb.v
+!i122 0
+L0 3 28
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 sync_counter_tb.v|sync_counter.v|
+R6
+!i113 1
+R7
