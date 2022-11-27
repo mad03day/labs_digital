@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Short/Schememe/Laba3_1/ModelSim
+vlaba3_1
+Z1 !s110 1669527213
+!i10b 1
+!s100 <z]j`9^3lnDHBzS<BXaA73
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I:nHKL[aHZD]DTgS<jnQ;=0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1669497326
+8laba3_1.v
+Flaba3_1.v
+!i122 0
+L0 1 30
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1669527213.000000
+!s107 laba3_1_tb.v|laba3_1.v|
+Z6 !s90 -reportprogress|300|laba3_1.v|laba3_1_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtestbench
+R1
+!i10b 1
+!s100 2K]l<S<L]8@mD4:]Ef2Z:0
+R2
+IdQZbilP;CWJ2;]f9^hoMn0
+R3
+R0
+w1669527205
+8laba3_1_tb.v
+Flaba3_1_tb.v
+!i122 0
+L0 3 32
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 laba3_1_tb.v|laba3_1.v|
+R6
+!i113 1
+R7

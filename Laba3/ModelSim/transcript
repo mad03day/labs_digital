@@ -1,0 +1,101 @@
+do D:/Short/Schememe/Laba3/ModelSim/sim.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 06:20:24 on Nov 27,2022
+# vlog -reportprogress 300 one_hot_div.v one_hot_div_tb.v 
+# -- Compiling module one_hot_div
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 06:20:25 on Nov 27,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim work.testbench 
+# Start time: 06:20:25 on Nov 27,2022
+# Loading work.testbench
+# Loading work.one_hot_div
+# ** Note: $finish    : one_hot_div_tb.v(31)
+#    Time: 420 ns  Iteration: 1  Instance: /testbench
+# 1
+# Break in Module testbench at one_hot_div_tb.v line 31
+# 0 ps
+# 441 ns
+quit -sim
+# End time: 06:50:22 on Nov 27,2022, Elapsed time: 0:29:57
+# Errors: 0, Warnings: 1
+# Compile of one_hot_div.v was successful.
+# Compile of one_hot_div_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+do D:/Short/Schememe/Laba3/ModelSim/sim.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 06:50:30 on Nov 27,2022
+# vlog -reportprogress 300 one_hot_div.v one_hot_div_tb.v 
+# -- Compiling module one_hot_div
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 06:50:30 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.testbench 
+# Start time: 06:50:30 on Nov 27,2022
+# Loading work.testbench
+# Loading work.one_hot_div
+# ** Note: $finish    : one_hot_div_tb.v(31)
+#    Time: 420 ns  Iteration: 1  Instance: /testbench
+# 1
+# Break in Module testbench at one_hot_div_tb.v line 31
+# 0 ps
+# 441 ns
+quit -sim
+# End time: 07:19:29 on Nov 27,2022, Elapsed time: 0:28:59
+# Errors: 0, Warnings: 2
+do D:/Short/Schememe/Laba3/ModelSim/sim.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 07:19:34 on Nov 27,2022
+# vlog -reportprogress 300 one_hot_div.v one_hot_div_tb.v 
+# -- Compiling module one_hot_div
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 07:19:34 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.testbench 
+# Start time: 07:19:35 on Nov 27,2022
+# Loading work.testbench
+# Loading work.one_hot_div
+# ** Note: $finish    : one_hot_div_tb.v(31)
+#    Time: 420 ns  Iteration: 1  Instance: /testbench
+# 1
+# Break in Module testbench at one_hot_div_tb.v line 31
+# 0 ps
+# 441 ns
+quit -sim
+# End time: 07:20:46 on Nov 27,2022, Elapsed time: 0:01:11
+# Errors: 0, Warnings: 1
+# Compile of one_hot_div.v was successful.
+# Compile of one_hot_div_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+do D:/Short/Schememe/Laba3/ModelSim/sim.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 07:21:40 on Nov 27,2022
+# vlog -reportprogress 300 one_hot_div.v one_hot_div_tb.v 
+# -- Compiling module one_hot_div
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 07:21:40 on Nov 27,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.testbench 
+# Start time: 07:21:41 on Nov 27,2022
+# Loading work.testbench
+# Loading work.one_hot_div
+# ** Note: $finish    : one_hot_div_tb.v(31)
+#    Time: 420 ns  Iteration: 1  Instance: /testbench
+# 1
+# Break in Module testbench at one_hot_div_tb.v line 31
+# 0 ps
+# 441 ns
+# End time: 07:59:36 on Nov 27,2022, Elapsed time: 0:37:55
+# Errors: 0, Warnings: 2
